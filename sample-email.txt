@@ -1,0 +1,16 @@
+From: security-alert@paypaI-support.example
+Subject: Urgent account verification required
+
+Dear customer,
+
+We noticed unusual activity on your account. To prevent permanent suspension,
+verify your password immediately at:
+
+http://login.paypaI-support.example.verify-account.ru/session
+
+If the link does not work, use this backup link:
+
+https://bit.ly/fake-support-link
+
+Thank you,
+Account Security Team
